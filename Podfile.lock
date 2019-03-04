@@ -1,0 +1,16 @@
+PODS:
+  - CoreLib (0.1.0)
+
+DEPENDENCIES:
+  - CoreLib (from `CoreLib/CoreLib/CoreLib`)
+
+EXTERNAL SOURCES:
+  CoreLib:
+    :path: CoreLib/CoreLib/CoreLib
+
+SPEC CHECKSUMS:
+  CoreLib: 56a069ac07d635a3ce8b43ff7447a7aa195359a0
+
+PODFILE CHECKSUM: 1640ace0f955ba3735888881fcd6cdd200654a89
+
+COCOAPODS: 1.4.0

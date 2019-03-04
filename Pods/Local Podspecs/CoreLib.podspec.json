@@ -1,0 +1,22 @@
+{
+  "name": "CoreLib",
+  "version": "0.1.0",
+  "summary": "A short description of CoreLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/GitHubCha2016/CoreLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GitHubCha2016": "424206567@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/GitHubCha2016/CoreLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CoreLib/Classes/**/*"
+}
